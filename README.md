@@ -93,7 +93,7 @@ Apri il browser su `http://localhost:5173`.
 - [x] Link e-mail e LinkedIn
 - [x] Aggiunta icone Bootstrap Icons ai link
 - [ ] Completamento sezione Interests
-- [ ] Deploy su GitHub Pages
+- [x] Deploy su GitHub Pages
 
 ---
 
