@@ -1,0 +1,101 @@
+#root {
+  max-width: 330px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: bisque;
+  color: black;
+}
+
+/*#region commons*/
+.section{
+  text-align: start;
+  padding: 1rem 2.5rem;
+}
+.section > p{
+  margin-top: .5rem;
+  padding: 0;
+}
+
+.section > h3 {
+  margin: 0;
+}
+/*#endregion commons*/
+
+/* #region info */
+
+.links {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.links > a  {
+  padding: .5rem 1.5rem;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.3s;
+}
+
+.links > a:hover {
+  background-color: #555;
+}
+
+#linkedin {
+  background-color: #0077b5;
+}
+
+.info-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 0 1rem;
+}
+
+.info-div > h2{
+  margin: 0;
+}
+
+.profile-picture {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.role {
+  font-size: .9rem;
+  margin: 0rem 0 2rem;
+}
+
+/* #endregion info */
+
+
+/* #region footer */
+footer{
+  background-color: darksalmon;
+  font-size: 2rem;
+  margin-top: 2rem;
+}
+
+footer > * {
+  margin: 0;
+}
+
+footer > a {
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+footer > a:hover {
+  color: #555;
+}
+
+.copy {
+  font-size: .8rem;
+  color: #555;
+}
+
+
+
+/* #endregion footer */
