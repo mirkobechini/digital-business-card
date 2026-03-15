@@ -7,7 +7,13 @@
 ![GitHub stars](https://img.shields.io/github/stars/mirkobechini/digital-business-card?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/mirkobechini/digital-business-card?style=flat-square)
 ![GitHub license](https://img.shields.io/github/license/mirkobechini/digital-business-card)
-![Version](https://img.shields.io/badge/version-0.0.0-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
+---
+
+## 🌍 Demo
+
+- Live: https://mirkobechini.github.io/digital-business-card/
 
 ---
 
@@ -92,7 +98,7 @@ Apri il browser su `http://localhost:5173`.
 - [x] Struttura base con componenti React
 - [x] Link e-mail e LinkedIn
 - [x] Aggiunta icone Bootstrap Icons ai link
-- [ ] Completamento sezione Interests
+- [x] Completamento sezione Interests
 - [x] Deploy su GitHub Pages
 
 ---
